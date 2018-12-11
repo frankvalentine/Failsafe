@@ -1,0 +1,415 @@
+L4 | Sat Dec 08 22:56:50 2018 (255 ms) | general | New game starting up
+L4 | Sat Dec 08 22:56:50 2018 (255 ms) | general | Target game image size:  1280x720
+
+L4 | Sat Dec 08 22:56:50 2018 (256 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Sat Dec 08 22:56:50 2018 (256 ms) | general | Trying to start in fullscreen mode.
+L4 | Sat Dec 08 22:56:50 2018 (257 ms) | general | The following frame rates are considered possible:
+L4 | Sat Dec 08 22:56:50 2018 (257 ms) | general | 30 fps
+L4 | Sat Dec 08 22:56:50 2018 (257 ms) | general | 60 fps
+L4 | Sat Dec 08 22:56:50 2018 (257 ms) | general | 120 fps
+L4 | Sat Dec 08 22:56:50 2018 (257 ms) | general | 144 fps
+L4 | Sat Dec 08 22:56:50 2018 (262 ms) | general | Setting real (not borderless) fullscreen mode
+L4 | Sat Dec 08 22:56:50 2018 (263 ms) | general | Current screen configuration is 1920x1080 with aspect ratio 1.77
+L4 | Sat Dec 08 22:56:50 2018 (263 ms) | general | Sticking with user's current screen resolution
+L4 | Sat Dec 08 22:56:50 2018 (263 ms) | general | Checking if requested video mode (1920x1080) is available
+L4 | Sat Dec 08 22:56:50 2018 (263 ms) | general | Available video modes:
+L5 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    1920 x 1080
+
+L4 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    ^^^^ this mode matches current aspect ratio
+L4 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    ^^^^ this mode matches requested mode
+L5 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    1680 x 1050
+
+L5 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    1600 x 900
+
+L4 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    1440 x 900
+
+L5 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    1400 x 1050
+
+L5 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    1366 x 768
+
+L4 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    1360 x 768
+
+L4 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    1280 x 1024
+
+L5 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    1280 x 960
+
+L5 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    1280 x 800
+
+L5 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    1280 x 768
+
+L5 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    1280 x 720
+
+L4 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    1280 x 600
+
+L5 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    1152 x 864
+
+L5 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    1024 x 768
+
+L5 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    800 x 600
+
+L5 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    640 x 480
+
+L5 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    640 x 400
+
+L5 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    512 x 384
+
+L5 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    400 x 300
+
+L5 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    320 x 240
+
+L5 | Sat Dec 08 22:56:50 2018 (263 ms) | general |    320 x 200
+
+L4 | Sat Dec 08 22:56:50 2018 (534 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Sat Dec 08 22:56:52 2018 (504 ms) | general | Measured frame rate = 59.055113 fps
+
+L4 | Sat Dec 08 22:56:52 2018 (504 ms) | general | Closest possible frame rate = 60 fps
+
+L4 | Sat Dec 08 22:56:52 2018 (504 ms) | general | Vsync seems to be enforcing an allowed frame rate of 60 fps.
+
+L4 | Sat Dec 08 22:56:52 2018 (508 ms) | general | Recording game into file recordedGames\recordedGame00001.txt
+L4 | Sat Dec 08 22:57:24 2018 (7 ms) | general | Received compressed data with SHA1 = F0A2047BF980EC54F7AD22AA9D38F0D55F7CBCE9
+
+L4 | Sat Dec 08 22:57:26 2018 (878 ms) | general | Received compressed data with SHA1 = 1E3327AC080B4AB3B660FEECB5029D529E0CC382
+
+L4 | Sat Dec 08 22:57:32 2018 (118 ms) | general | Received compressed data with SHA1 = 145B45F2CD5E3081E00CBC0028C26BA8A39344E6
+
+L4 | Sat Dec 08 22:57:38 2018 (278 ms) | general | Received compressed data with SHA1 = 1FBEE19164F40CC2C0161111FCF40CFF0A6031AD
+
+L4 | Sat Dec 08 22:57:42 2018 (712 ms) | general | Received compressed data with SHA1 = D59B2F0792A096A9A79FA36D8EF21810DB797D82
+
+L4 | Sat Dec 08 22:57:46 2018 (355 ms) | general | Received compressed data with SHA1 = 6098F39EE3DFECCC0DE98EFDB395D541AF482DAE
+
+L4 | Sat Dec 08 22:57:50 2018 (287 ms) | general | Received compressed data with SHA1 = 771A784690D1FC0F62BA7870712D1A6F06852B91
+
+L4 | Sat Dec 08 22:57:51 2018 (723 ms) | general | Received compressed data with SHA1 = AC7E7676663E78F1E28EF9797E6FC8EEE7C34AB3
+
+L4 | Sat Dec 08 22:57:53 2018 (443 ms) | general | Received compressed data with SHA1 = FD22D06A948329395D44AF86AA02F5EED7E6BCE5
+
+L4 | Sat Dec 08 22:57:57 2018 (788 ms) | general | Received compressed data with SHA1 = 5D624C643157F7851F89D76A0BEA4E5D7E4094A6
+
+L4 | Sat Dec 08 22:58:00 2018 (169 ms) | general | Received compressed data with SHA1 = C204DD0C42297D13A94EB652389ECB6775E00228
+
+L4 | Sat Dec 08 22:58:01 2018 (645 ms) | general | Received compressed data with SHA1 = 945B87D2C8E0F2A609D02CF4FA80D2DAFF9166EA
+
+L4 | Sat Dec 08 22:58:06 2018 (397 ms) | general | Received compressed data with SHA1 = 374CD90F75FA8D255E57AA81A5FB013536EBCE6E
+
+L4 | Sat Dec 08 22:58:08 2018 (983 ms) | general | Received compressed data with SHA1 = 75665D5C2AFE7A8C40E6E900AD0E79571408C608
+
+L4 | Sat Dec 08 22:58:12 2018 (574 ms) | general | Received compressed data with SHA1 = C8468C354E3D8FF75C3A8A653A5E0BBEB9573FA0
+
+L4 | Sat Dec 08 22:58:12 2018 (810 ms) | general | Received compressed data with SHA1 = 37F5B0AAA1DC47FC874ACDF7AFAC6A8229EEAD19
+
+L4 | Sat Dec 08 22:58:13 2018 (238 ms) | general | Received compressed data with SHA1 = 012DFBD77732F01614C728AC02621352D46FC8B7
+
+L4 | Sat Dec 08 22:58:13 2018 (722 ms) | general | Received compressed data with SHA1 = C58B2DA67375021D5742C385625424E596026712
+
+L4 | Sat Dec 08 22:58:15 2018 (188 ms) | general | Received compressed data with SHA1 = 26405D4872FD37142592C45DB65689AF95FD6827
+
+L4 | Sat Dec 08 22:58:15 2018 (707 ms) | general | Received compressed data with SHA1 = E1ED0E491F638CBFFA5DE23696BAD2364DB4DC9C
+
+L4 | Sat Dec 08 22:58:17 2018 (81 ms) | general | Received compressed data with SHA1 = 738EA53CEA748F89B6839AF60C2AE9C9B67924A0
+
+L4 | Sat Dec 08 22:58:18 2018 (235 ms) | general | Received compressed data with SHA1 = 4873905F4D522FCFFC4CA1CE3E4270E8B213FED9
+
+L4 | Sat Dec 08 22:58:18 2018 (538 ms) | general | Received compressed data with SHA1 = AE61F7C9E17232DDB9F5E30E976C2A9A61352833
+
+L4 | Sat Dec 08 22:58:18 2018 (787 ms) | general | Received compressed data with SHA1 = BDA545EAFD4BDF27FD5E4C64C5FFCE8D36392F34
+
+L4 | Sat Dec 08 22:58:22 2018 (806 ms) | general | Received compressed data with SHA1 = 8B35225A0E2FA7795BDD74AEA5338A2644FA3412
+
+L4 | Sat Dec 08 22:58:24 2018 (391 ms) | general | Received compressed data with SHA1 = CB0EF99A5EBEAE33BD991B8532E5E9601AB3EBE9
+
+L4 | Sat Dec 08 22:58:26 2018 (632 ms) | general | Received compressed data with SHA1 = 4A19F2FC94240A5FD50FBDF9F9D89BB9190BD3DB
+
+L4 | Sat Dec 08 22:58:26 2018 (898 ms) | general | Received compressed data with SHA1 = E1DE2BA1BA300F82839645408305B255F1BBEC06
+
+L4 | Sat Dec 08 22:58:27 2018 (449 ms) | general | Received compressed data with SHA1 = 2683D6D05D984980F89639D4F0909134FD9A1B4A
+
+L4 | Sat Dec 08 22:58:28 2018 (987 ms) | general | Received compressed data with SHA1 = 6A06C559B59A8B4C935CCBE5AEDB7682E19B2CE0
+
+L4 | Sat Dec 08 22:58:30 2018 (892 ms) | general | Received compressed data with SHA1 = D7328164B6713011A1FF71D641914F49E3FBD24D
+
+L4 | Sat Dec 08 22:58:32 2018 (54 ms) | general | Received compressed data with SHA1 = 3D6D0F2A42F9E550CC859B45B17609EF2EEC06B9
+
+L4 | Sat Dec 08 22:58:33 2018 (420 ms) | general | Received compressed data with SHA1 = B889903BBE5F2F9F630E54620B227C213796791B
+
+L4 | Sat Dec 08 22:58:34 2018 (163 ms) | general | Received compressed data with SHA1 = 4EBA118AC8779C24A35CF459DC18646353750FA7
+
+L4 | Sat Dec 08 22:58:36 2018 (388 ms) | general | Received compressed data with SHA1 = 9804A73C9E75D0A22740AD414B363F35B559118A
+
+L4 | Sat Dec 08 22:58:37 2018 (574 ms) | general | Received compressed data with SHA1 = CD218A564510B1583564AEC4AF129BC2EA5AF790
+
+L4 | Sat Dec 08 22:58:42 2018 (951 ms) | general | Received compressed data with SHA1 = 2E555EBFFB62F71EE1E2B41702A3163610B03CA2
+
+L4 | Sat Dec 08 22:58:46 2018 (168 ms) | general | Received compressed data with SHA1 = BC0E5E2419CA175F7127EBC6DE5FF2669D3DCC0A
+
+L4 | Sat Dec 08 22:58:48 2018 (725 ms) | general | Received compressed data with SHA1 = B3A62EBB8BC57DB4CB913CD1DF548DCD9600D6B5
+
+L4 | Sat Dec 08 22:58:49 2018 (690 ms) | general | Received compressed data with SHA1 = CFC044EC5DF300888B48C7B3401EBFA3C8BF17FD
+
+L4 | Sat Dec 08 22:58:51 2018 (913 ms) | general | Received compressed data with SHA1 = A086CB32A6A60697BADC6C2615377C54DBAF75A8
+
+L4 | Sat Dec 08 22:58:53 2018 (473 ms) | general | Received compressed data with SHA1 = FD240E81657B4C1A5B7E0B8238013C87698D6282
+
+L4 | Sat Dec 08 22:58:57 2018 (640 ms) | general | Received compressed data with SHA1 = 1E58E1F3D09B402FBA91529980B8C3D224BB586C
+
+L4 | Sat Dec 08 22:59:02 2018 (465 ms) | general | Received compressed data with SHA1 = D5DA841CCD87AC622FCFFAA8F6DEE15DB0AE5BDA
+
+L4 | Sat Dec 08 22:59:03 2018 (241 ms) | general | Received compressed data with SHA1 = 28CAE7A60FF2D9D1E906F0F41C3337BBBE2EA5C5
+
+L4 | Sat Dec 08 22:59:04 2018 (598 ms) | general | Received compressed data with SHA1 = DD2D502DD5A5D6A464F4971CCB6CD9525F69319D
+
+L4 | Sat Dec 08 22:59:08 2018 (422 ms) | general | Received compressed data with SHA1 = 2FB0AE1230700AF4674B8B95754D29F456A39D46
+
+L4 | Sat Dec 08 22:59:10 2018 (430 ms) | general | Received compressed data with SHA1 = 7D7067D1D36476857DA25425AE9CDEABE5A2BE3A
+
+L4 | Sat Dec 08 22:59:15 2018 (303 ms) | general | Received compressed data with SHA1 = 282AF85E88D58B6888E4863DC6D1BAD6105E668F
+
+L4 | Sat Dec 08 22:59:18 2018 (943 ms) | general | Received compressed data with SHA1 = 222D2B2F6D2FE632C532184428ABFD3B199FCE11
+
+L4 | Sat Dec 08 22:59:20 2018 (303 ms) | general | Received compressed data with SHA1 = A82AB384B1449DBCE5211971279563DB51A148A4
+
+L4 | Sat Dec 08 22:59:21 2018 (368 ms) | general | Received compressed data with SHA1 = BA7518E77D14675EBD1F9E58A0AFF91A4B82E448
+
+L4 | Sat Dec 08 22:59:23 2018 (943 ms) | general | Received compressed data with SHA1 = D359CA6243F8F4EED41EA32B87FC747A1139A523
+
+L4 | Sat Dec 08 22:59:26 2018 (102 ms) | general | Received compressed data with SHA1 = 21DE8E496BF0D56B2D7DFAC7A79699361B2D1330
+
+L4 | Sat Dec 08 22:59:27 2018 (642 ms) | general | Received compressed data with SHA1 = 993BB9941DAA8452282C3F395A641F756E9AAD93
+
+L4 | Sat Dec 08 22:59:31 2018 (451 ms) | general | Received compressed data with SHA1 = C5AC8A1B77674FBC07506C02E8DEC0A48874E588
+
+L4 | Sat Dec 08 22:59:33 2018 (670 ms) | general | Received compressed data with SHA1 = EDBF7DD5A065E27D4FE65D8CF4B9BBCF1DFF7F29
+
+L4 | Sat Dec 08 22:59:35 2018 (296 ms) | general | Received compressed data with SHA1 = 6A98EA7E2C96A508635778C8824E8B0593748484
+
+L4 | Sat Dec 08 22:59:36 2018 (464 ms) | general | Received compressed data with SHA1 = 84EDD369F2F77BF82F4CC24F4B963854125345C8
+
+L4 | Sat Dec 08 22:59:41 2018 (363 ms) | general | Received compressed data with SHA1 = DD5C7E3C2D95C801ECD8A0E27013F57A60386D7D
+
+L4 | Sat Dec 08 22:59:46 2018 (182 ms) | general | Received compressed data with SHA1 = 2265AF86D910BE7A7B68CEB18118ED1535554FE8
+
+L4 | Sat Dec 08 22:59:47 2018 (984 ms) | general | Received compressed data with SHA1 = E8E0FECDD7D45D15709BED58D2D4EF89975804D1
+
+L4 | Sat Dec 08 22:59:52 2018 (539 ms) | general | Received compressed data with SHA1 = B4FE1012C8CD6B6A7F2137AAB7B01DAEED0FD403
+
+L4 | Sat Dec 08 22:59:53 2018 (551 ms) | general | Received compressed data with SHA1 = 8BDCBF7E346874F2FCDE7F9D7586EEFBAF243BFC
+
+L4 | Sat Dec 08 22:59:54 2018 (970 ms) | general | Received compressed data with SHA1 = A926CD9210AD6642452557703731CB2409845AD1
+
+L4 | Sat Dec 08 22:59:56 2018 (817 ms) | general | Received compressed data with SHA1 = 857DCD7773968453064518E30F03B3129B009FC4
+
+L4 | Sat Dec 08 23:00:00 2018 (218 ms) | general | Received compressed data with SHA1 = 4FD700CED47C7E9B71996468875ACBBF456B6501
+
+L4 | Sat Dec 08 23:00:01 2018 (970 ms) | general | Received compressed data with SHA1 = 336927829ED691F2668198C84D3A8FAA7F6BD531
+
+L4 | Sat Dec 08 23:00:02 2018 (318 ms) | general | Received compressed data with SHA1 = EF9A05338F303E84537B120032C7E3B4B251950D
+
+L4 | Sat Dec 08 23:00:03 2018 (136 ms) | general | Received compressed data with SHA1 = ACD238141685AF85B6F32C2F3B11CFEB18192523
+
+L4 | Sat Dec 08 23:00:07 2018 (687 ms) | general | Received compressed data with SHA1 = 4886D1412C3AFE8A62B0F9450340BD8BC530A5AF
+
+L4 | Sat Dec 08 23:00:09 2018 (351 ms) | general | Received compressed data with SHA1 = A591A10A124B22D15CBEB77A7D68B0D860924837
+
+L4 | Sat Dec 08 23:00:15 2018 (59 ms) | general | Received compressed data with SHA1 = FE92261013286F9EDAC902F5761F4B044EBCA60D
+
+L4 | Sat Dec 08 23:00:17 2018 (5 ms) | general | Received compressed data with SHA1 = ADAE58605BAE5A7BCDC0E5070B2F8E323E593808
+
+L4 | Sat Dec 08 23:00:30 2018 (822 ms) | general | Received compressed data with SHA1 = 8624427AAA222EB0C7DA97B13F492158C2290FCE
+
+L4 | Sat Dec 08 23:00:33 2018 (802 ms) | general | Received compressed data with SHA1 = 9D6111B21C92D8290C800DC8ACD42CB1C43CCF7F
+
+L4 | Sat Dec 08 23:00:38 2018 (466 ms) | general | Received compressed data with SHA1 = 774F5F59C08513192C587F2991747D025B25D4B2
+
+L4 | Sat Dec 08 23:00:38 2018 (810 ms) | general | Received compressed data with SHA1 = FBF0D6C6783175966923E980E6B587411F0605CE
+
+L4 | Sat Dec 08 23:00:40 2018 (594 ms) | general | Received compressed data with SHA1 = 33CFA479AB070C6584FD532537B80AFB92D8F508
+
+L4 | Sat Dec 08 23:00:40 2018 (890 ms) | general | Received compressed data with SHA1 = 4BD58B57272F3FF8D9C8CE6D132D077E0D044A20
+
+L4 | Sat Dec 08 23:00:42 2018 (266 ms) | general | Received compressed data with SHA1 = 1911F7224FEFC3BEAE908212D76C1FACD046FD52
+
+L4 | Sat Dec 08 23:00:44 2018 (369 ms) | general | Received compressed data with SHA1 = 1B6A7EA125F05406C25BFB7B65656F8C96166DF5
+
+L4 | Sat Dec 08 23:00:46 2018 (61 ms) | general | Received compressed data with SHA1 = FE1A089253704B4135A2FFE9E9219EC99DC6400C
+
+L4 | Sat Dec 08 23:00:47 2018 (537 ms) | general | Received compressed data with SHA1 = C28E9229D11E9C3977637C600F8C7DE49F6C50B8
+
+L4 | Sat Dec 08 23:00:48 2018 (990 ms) | general | Received compressed data with SHA1 = 43E3727FD69C15A0E0D6765A293F09684750443C
+
+L4 | Sat Dec 08 23:00:49 2018 (857 ms) | general | Received compressed data with SHA1 = 8EA657EDEBE0D3817A116E0D7E8C84535FD1513E
+
+L4 | Sat Dec 08 23:00:55 2018 (265 ms) | general | Received compressed data with SHA1 = 548150FE6C334F4E6D111E9AE70222BDC600D570
+
+L4 | Sat Dec 08 23:00:59 2018 (242 ms) | general | Received compressed data with SHA1 = DB70965CE8F4ABF2D78535DD76303EB262987B61
+
+L4 | Sat Dec 08 23:01:00 2018 (411 ms) | general | Received compressed data with SHA1 = 4E6BD5CBA1BEC1E72DB0F3565EAE314F6B2F4B74
+
+L4 | Sat Dec 08 23:01:01 2018 (693 ms) | general | Received compressed data with SHA1 = B6FF40D94235AF083DE475FCAD6D040FCEDED443
+
+L4 | Sat Dec 08 23:01:03 2018 (778 ms) | general | Received compressed data with SHA1 = CE253687580D5004BD0845F3D75FBD829435B585
+
+L4 | Sat Dec 08 23:01:05 2018 (853 ms) | general | Received compressed data with SHA1 = 2ED0571E161672A9F61165BF1B72C2ED526CA09E
+
+L4 | Sat Dec 08 23:01:07 2018 (753 ms) | general | Received compressed data with SHA1 = C8AD432CBA43C87470F547A56C12A84891762061
+
+L4 | Sat Dec 08 23:01:09 2018 (969 ms) | general | Received compressed data with SHA1 = 6A42777B1CCE1E8E6ED890FDB567F5E164A31112
+
+L4 | Sat Dec 08 23:01:11 2018 (209 ms) | general | Received compressed data with SHA1 = D238E9983DD3C5532459B0ECE6770DEC01396FD8
+
+L4 | Sat Dec 08 23:01:13 2018 (440 ms) | general | Received compressed data with SHA1 = E0963B6DFFE3021B2B10A445DD94FBE394BBD5F8
+
+L4 | Sat Dec 08 23:01:17 2018 (602 ms) | general | Received compressed data with SHA1 = D4AD5318623A0DBBFE2FB9E4B889B942D34489EF
+
+L4 | Sat Dec 08 23:01:23 2018 (703 ms) | general | Received compressed data with SHA1 = DE3ACD63D8CBA10F86C1AF79531BE9D14E069CBA
+
+L4 | Sat Dec 08 23:01:25 2018 (426 ms) | general | Received compressed data with SHA1 = CC0BFEFCDD896C5A8DEC72A7F70D4A7010B96863
+
+L4 | Sat Dec 08 23:01:27 2018 (478 ms) | general | Received compressed data with SHA1 = E80E79544BFC74E3E3A2AB66581B80B4AA6148BF
+
+L4 | Sat Dec 08 23:01:31 2018 (44 ms) | general | Received compressed data with SHA1 = C59F184F7FDB5F8E8FC671819DB0A562EE7880E8
+
+L4 | Sat Dec 08 23:01:33 2018 (224 ms) | general | Received compressed data with SHA1 = 09656D2E13DE8C9E43F36328E22DAAA8B40DB0FA
+
+L4 | Sat Dec 08 23:01:36 2018 (791 ms) | general | Received compressed data with SHA1 = C1CA50099398AA7B6B4FC5B3E8D7D6C2435ABC9F
+
+L4 | Sat Dec 08 23:01:38 2018 (869 ms) | general | Received compressed data with SHA1 = 1C68E0A121AD5F6E309DAAB4D727E37C36C90B86
+
+L4 | Sat Dec 08 23:01:55 2018 (775 ms) | general | Received compressed data with SHA1 = 865E0FAECD7D3BB49982D725A348D48DA49B84DF
+
+L4 | Sat Dec 08 23:01:59 2018 (257 ms) | general | Received compressed data with SHA1 = 0939568DFE84F8CEDE2AE5B70BDA20F283DB032C
+
+L4 | Sat Dec 08 23:02:04 2018 (414 ms) | general | Received compressed data with SHA1 = 72CC86DB7144B56FE33BC0764591A0CD52927265
+
+L4 | Sat Dec 08 23:02:05 2018 (716 ms) | general | Received compressed data with SHA1 = E7909F6B14C02674B00849E5A08BFDDAFD34F81C
+
+L4 | Sat Dec 08 23:02:07 2018 (137 ms) | general | Received compressed data with SHA1 = 27C81832B1D4B5BE2C5237C585C33E198716D64E
+
+L4 | Sat Dec 08 23:02:08 2018 (505 ms) | general | Received compressed data with SHA1 = 405F5568C8EECAB1999BD184DF54515CC3710AEA
+
+L4 | Sat Dec 08 23:02:10 2018 (723 ms) | general | Received compressed data with SHA1 = FB1FB222AD60F5C61F34C54163D41B695559DFBF
+
+L4 | Sat Dec 08 23:02:11 2018 (928 ms) | general | Received compressed data with SHA1 = 3F0A3097CD9C6F28EDE31ABCDBCC9BD048D2C8A0
+
+L4 | Sat Dec 08 23:02:13 2018 (149 ms) | general | Received compressed data with SHA1 = E465BACC9AC25CF1BC85B14A40EB450E59676D71
+
+L4 | Sat Dec 08 23:02:18 2018 (587 ms) | general | Received compressed data with SHA1 = CAF5C024B725A1CCF1CEF9C70806C71C318E92C0
+
+L4 | Sat Dec 08 23:02:23 2018 (251 ms) | general | Received compressed data with SHA1 = 341458E10288CA90C7AC7CC0DCDB86E114155C9B
+
+L2 | Sat Dec 08 23:02:23 2018 (339 ms) | general | gameSDL - clearWebRequest:  Requested WebRequest handle not found
+
+L4 | Sat Dec 08 23:02:23 2018 (339 ms) | general | Relaunching game OneLife.exe
+L4 | Sat Dec 08 23:02:24 2018 (126 ms) | general | exiting...
+
+L4 | Sat Dec 08 23:02:24 2018 (126 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Sat Dec 08 23:02:24 2018 (171 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Sat Dec 08 23:02:24 2018 (171 ms) | general | Freeing sound sprites
+
+L4 | Sat Dec 08 23:02:24 2018 (171 ms) | general | exiting: freeing frameDrawer
+
+L4 | Sat Dec 08 23:02:24 2018 (175 ms) | general | New game starting up
+L4 | Sat Dec 08 23:02:24 2018 (175 ms) | general | Target game image size:  1280x720
+
+L4 | Sat Dec 08 23:02:24 2018 (175 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Sat Dec 08 23:02:24 2018 (175 ms) | general | Trying to start in fullscreen mode.
+L4 | Sat Dec 08 23:02:24 2018 (176 ms) | general | The following frame rates are considered possible:
+L4 | Sat Dec 08 23:02:24 2018 (176 ms) | general | 30 fps
+L4 | Sat Dec 08 23:02:24 2018 (176 ms) | general | 60 fps
+L4 | Sat Dec 08 23:02:24 2018 (176 ms) | general | 120 fps
+L4 | Sat Dec 08 23:02:24 2018 (176 ms) | general | 144 fps
+L4 | Sat Dec 08 23:02:24 2018 (180 ms) | general | Setting real (not borderless) fullscreen mode
+L4 | Sat Dec 08 23:02:24 2018 (180 ms) | general | Current screen configuration is 1920x1080 with aspect ratio 1.77
+L4 | Sat Dec 08 23:02:24 2018 (180 ms) | general | Sticking with user's current screen resolution
+L4 | Sat Dec 08 23:02:24 2018 (180 ms) | general | Checking if requested video mode (1920x1080) is available
+L4 | Sat Dec 08 23:02:24 2018 (180 ms) | general | Available video modes:
+L5 | Sat Dec 08 23:02:24 2018 (180 ms) | general |    1920 x 1080
+
+L4 | Sat Dec 08 23:02:24 2018 (180 ms) | general |    ^^^^ this mode matches current aspect ratio
+L4 | Sat Dec 08 23:02:24 2018 (180 ms) | general |    ^^^^ this mode matches requested mode
+L5 | Sat Dec 08 23:02:24 2018 (180 ms) | general |    1680 x 1050
+
+L5 | Sat Dec 08 23:02:24 2018 (180 ms) | general |    1600 x 900
+
+L4 | Sat Dec 08 23:02:24 2018 (180 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Sat Dec 08 23:02:24 2018 (180 ms) | general |    1440 x 900
+
+L5 | Sat Dec 08 23:02:24 2018 (180 ms) | general |    1400 x 1050
+
+L5 | Sat Dec 08 23:02:24 2018 (180 ms) | general |    1366 x 768
+
+L4 | Sat Dec 08 23:02:24 2018 (180 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Sat Dec 08 23:02:24 2018 (180 ms) | general |    1360 x 768
+
+L4 | Sat Dec 08 23:02:24 2018 (180 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Sat Dec 08 23:02:24 2018 (180 ms) | general |    1280 x 1024
+
+L5 | Sat Dec 08 23:02:24 2018 (180 ms) | general |    1280 x 960
+
+L5 | Sat Dec 08 23:02:24 2018 (180 ms) | general |    1280 x 800
+
+L5 | Sat Dec 08 23:02:24 2018 (180 ms) | general |    1280 x 768
+
+L5 | Sat Dec 08 23:02:24 2018 (180 ms) | general |    1280 x 720
+
+L4 | Sat Dec 08 23:02:24 2018 (180 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Sat Dec 08 23:02:24 2018 (181 ms) | general |    1280 x 600
+
+L5 | Sat Dec 08 23:02:24 2018 (181 ms) | general |    1152 x 864
+
+L5 | Sat Dec 08 23:02:24 2018 (181 ms) | general |    1024 x 768
+
+L5 | Sat Dec 08 23:02:24 2018 (181 ms) | general |    800 x 600
+
+L5 | Sat Dec 08 23:02:24 2018 (181 ms) | general |    640 x 480
+
+L5 | Sat Dec 08 23:02:24 2018 (181 ms) | general |    640 x 400
+
+L5 | Sat Dec 08 23:02:24 2018 (181 ms) | general |    512 x 384
+
+L5 | Sat Dec 08 23:02:24 2018 (181 ms) | general |    400 x 300
+
+L5 | Sat Dec 08 23:02:24 2018 (181 ms) | general |    320 x 240
+
+L5 | Sat Dec 08 23:02:24 2018 (181 ms) | general |    320 x 200
+
+L4 | Sat Dec 08 23:02:24 2018 (241 ms) | general | exiting: Deleting screen
+
+L4 | Sat Dec 08 23:02:24 2018 (241 ms) | general | exiting: freeing drawString
+
+L4 | Sat Dec 08 23:02:24 2018 (244 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Sat Dec 08 23:02:24 2018 (310 ms) | general | exiting: Done.
+
+L4 | Sat Dec 08 23:02:24 2018 (483 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Sat Dec 08 23:02:24 2018 (776 ms) | general | Recording game into file recordedGames\recordedGame000002.txt
+L4 | Sat Dec 08 23:02:24 2018 (776 ms) | general | Only keeping 20 past recordings
+L4 | Sat Dec 08 23:02:24 2018 (776 ms) | general | Removed 0 stale recordings
+L4 | Sat Dec 08 23:10:16 2018 (609 ms) | general | exiting...
+
+L4 | Sat Dec 08 23:10:16 2018 (609 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Sat Dec 08 23:10:16 2018 (658 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Sat Dec 08 23:10:16 2018 (658 ms) | general | Freeing sound sprites
+
+L4 | Sat Dec 08 23:10:16 2018 (665 ms) | general | exiting: freeing frameDrawer
+
+L4 | Sat Dec 08 23:10:16 2018 (740 ms) | general | exiting: Deleting screen
+
+L4 | Sat Dec 08 23:10:16 2018 (746 ms) | general | exiting: freeing drawString
+
+L4 | Sat Dec 08 23:10:16 2018 (747 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Sat Dec 08 23:10:16 2018 (851 ms) | general | exiting: Done.
+
